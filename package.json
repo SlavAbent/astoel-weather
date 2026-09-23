@@ -1,7 +1,6 @@
 {
-  "name": "weather-cli",
+  "name": "astoel-weather",
   "version": "1.0.0",
-  "private": true,
   "description": "cli for getting weather",
   "keywords": [
     "cli",
